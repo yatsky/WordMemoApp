@@ -5,9 +5,9 @@ import re
 # global var EnglishTerms, ChineseTerms
 def SliceTerms(raw, EnglishTerms, ChineseTerms): # both eng and chi terms lists are empty
 	for line in raw:
-		line = line.strip()
+		newline = line.rstrip()
 		if not re.search('\w', line):
 			continue
-		EnglishTerms.append(re.findall('[(\w].+[\w )]', line)[0])
-		ChineseTerms.append(re.findall('[^\w (),].+', line)[0])
+		EnglishTerms.append(re.findall('[(\w].+[\w )]', newline)[0])
+		ChineseTerms.append(re.findall('[^\w (),].+', newline)[0])
 	return EnglishTerms, ChineseTerms

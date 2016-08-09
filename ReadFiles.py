@@ -18,13 +18,13 @@ Please let me know if you have any questions or want to add
 any awsome features.\n
 Enjoy learning!\n'''
 	
-def ReadStudyRecord():
+def ReadStudyRecord(raw):
 	cw = os.getcwd()
 	srPath = cw + '\\' + 'StudyRecord'
 	
 	if not os.path.isfile(srPath):
 		StudyRecord = open('StudyRecord', 'w')
-		records = [0] * len(raw)
+		records = ['0'] * len(raw)
 		# write records to file
 		for record in records:
 			StudyRecord.write('%s\n' % record)
