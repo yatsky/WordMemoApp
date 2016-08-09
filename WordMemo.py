@@ -1,6 +1,5 @@
 import re
 import os
-import Tkinter as tk
 
 def ReadTermPool(FileName = ''):
 	if FileName == '':
