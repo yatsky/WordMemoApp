@@ -1,0 +1,101 @@
+Heart and circulatory system 心脏和循环系统
+Blood vessels 血管
+Artery 动脉
+Vein 静脉
+Aorta主动脉
+Capillary 毛细血管
+Ventricle 心室
+Atrium心房
+Red blood cells(RBCs)(erythrocytes) 红血球
+White blood cells(WBCs)(leukocytes) 白血球
+Platelets(thrombocyte) 血小板
+Circulatory system 循环系统
+Plasma 血浆
+Hemoglobin血红蛋白
+Antibody 抗体
+Anemia 贫血症
+Leukemia 白血病
+Bones, muscles and joints 骨头、肌肉和关节
+Skeleton 骨骼
+Skull 头骨
+Spine 脊柱
+Spinal cord脊髓
+Ribs 肋骨
+Cartilage 软骨组织
+Collagen 骨胶原
+Ligaments 韧带
+Tendons 腱
+Bone marrow 骨髓
+Joints 关节
+Arthritis 关节炎
+Fracture 骨折
+Osteoporosis 骨质疏松症
+Brain and nervous system 大脑和神经系统
+Vertebrae 椎骨
+Neuron 神经元
+Central nervous system 中枢神经系统
+Cerebral palsy 大脑性麻痹
+Epilepsy 癫痫
+Meningitis 脑膜炎
+Encephalitis 脑炎
+Mental illness 精神病
+Concussion 脑震荡
+Migraine 偏头痛
+Eyes 眼睛
+Eye ball 眼球
+Cornea 角膜
+Pupil 瞳孔
+Iris 虹膜
+Sclera 巩膜
+Retina 视网膜
+Vitreous humour 玻璃体
+Lens 晶状体
+Optic nerve 视神经
+Near-sightedness 近视
+Far-sightedness 远视
+Cataract 白内障
+Conjunctivitis 结膜炎
+Glaucoma 青光眼
+Digestive system 消化系统
+Esophagus 食道
+Moving your bowels ( to poop) 大便
+A bowel movement 大便
+Bowels (large intestine) 大肠
+Constipation 便秘
+Laxatives 轻泻剂
+Diarrhea 腹泻
+Nausea 恶心
+Vomit (throw up) 呕吐
+Abdominal pain 腹痛
+Tummy pain 肚子痛
+Bloating 胀气
+Camps 腹部绞痛
+Anus 肛门
+Gall bladder 胆囊
+Bile 胆汁
+Duodenum 十二指肠
+Pancreas 胰腺
+Liver 肝脏
+Appendix 阑尾
+Ulcers 溃疡
+Heartburn 胃灼热
+Bowel regularity 排便有规律
+Irritable bowel syndrome 肠易激综合症
+Endocrine system 内分泌系统
+Hormone 荷尔蒙
+Gland 腺
+Pituitary 垂体
+Thyroid 甲状腺
+Adrenals 肾上腺
+Urinary system 泌尿系统
+Kidneys 肾脏
+Urine 小便
+Urinate 小便
+Ureters 输尿管
+(urinary) bladder 膀胱
+Urethra 尿道
+Kidney (renal) failure 肾衰竭
+Kidney stones (nephrolithiasis)  肾结石
+Nephritis 肾炎
+Urinary tract infections 尿路感染
+Dialysis 透析
