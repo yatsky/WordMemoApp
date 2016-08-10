@@ -1,0 +1,43 @@
+Digestive system 消化系统
+Esophagus 食道
+Moving your bowels 大便
+A bowel movement 大便
+Bowels (large intestine) 大肠
+Constipation 便秘
+Laxatives 轻泻剂
+Diarrhea 腹泻
+Nausea 恶心
+Vomit 呕吐
+Abdominal pain 腹痛
+Tummy pain 肚子痛
+Bloating 胀气
+Camps 腹部绞痛
+Anus 肛门
+Gall bladder 胆囊
+Bile 胆汁
+Duodenum 十二指肠
+Pancreas 胰腺
+Liver 肝脏
+Appendix 阑尾
+Ulcers 溃疡
+Heartburn 胃灼热
+Bowel regularity 排便有规律
+Irritable bowel syndrome 肠易激综合症
+Endocrine system 内分泌系统
+Hormone 荷尔蒙
+Gland 腺
+Pituitary 垂体
+Thyroid 甲状腺
+Adrenals 肾上腺
+Urinary system 泌尿系统
+Kidneys 肾脏
+Urine 小便
+Urinate 小便
+Ureters 输尿管
+(urinary) bladder 膀胱
+Urethra 尿道
+Kidney (renal) failure 肾衰竭
+Kidney stones 肾结石
+Nephritis 肾炎
+Urinary tract infections 尿路感染
+Dialysis 透析

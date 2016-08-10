@@ -11,7 +11,7 @@ QuestionList, AnswerList = CreateQAlist.CreateQAlist(records, mode, EnglishTerms
 question, answer = RandomSelection.RandomSelection(QuestionList, AnswerList)
 
 while True:
-    test = tester.tester(question, answer)
+    test = tester.tester(records, question, answer)
     if test:
         records[QuestionList.index(question)] = int(records[QuestionList.index(question)]) + 1
         print 'That\'s right!\n','You remembered', question, records[QuestionList.index(question)], 'time(s)!\n'

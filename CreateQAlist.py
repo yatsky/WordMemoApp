@@ -2,6 +2,8 @@
 # 1. ask user to set a target number
 # 2. create a new list to record position information of words
 def CreateQAlist(records, mode, EnglishTerms, ChineseTerms):
+
+
     target = int(raw_input('Please give your target number.\n'))
     # go through each record in records and compare it with target
     QuestionList = []

@@ -17,6 +17,7 @@ I hope you find it useful and enjoyable!\n
 Please let me know if you have any questions or want to add 
 any awsome features.\n
 Enjoy learning!\n'''
+	return None
 	
 def ReadStudyRecord(raw):
 	cw = os.getcwd()
