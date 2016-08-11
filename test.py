@@ -15,5 +15,6 @@ def test(QAdict):
 		return False, 'QUIT'
 	else:
 		print 'Either you don\'t remember or your spelling needs more work!\n'
+		print 'The correct answer is: %s\n' % answer
 		return False, None
 	# print random.choice(QAdict.keys())
