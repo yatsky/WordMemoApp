@@ -2,9 +2,9 @@
 import cfg, ReadFiles, ReadStudyRecords, checknumber, makeQAlist, test, counter, WriteFile
 
 ReadFiles.greetings()
-cfg.FileName = raw_input('Please give me your file name.\n')
+cfg.FileName = raw_input('Please give me your file name.\n') + '.txt'
 cfg.RawTerms = ReadFiles.readfile(cfg.FileName)
-cfg.records = ReadStudyRecords.readstudyrecords(cfg.RawTerms)
+cfg.records = ReadStudyRecords.readstudyrecords(cfg.FileName, cfg.RawTerms)
 cfg.records = [int(i) for i in cfg.records]
 for i in range(max(cfg.records) + 1):
     if i in cfg.records:
