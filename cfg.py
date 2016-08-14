@@ -10,6 +10,6 @@ QuestionList = []
 AnswerList = []
 dict = {}
 target = ''
-mode = '' # default is English
+mode = ''
 TestFlag = False
 QuestionIfCorrect = ''

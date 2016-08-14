@@ -31,5 +31,5 @@ while True:
         cfg.records = counter.counter(cfg.mode, cfg.records, cfg.TestFlag)
         cfg.TestFlag = False
     cfg.TestFlag, cfg.QuestionIfCorrect = test.test(cfg.dict)
-	
+    
 # print cfg.records
