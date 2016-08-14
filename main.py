@@ -2,7 +2,8 @@
 import cfg, ReadFiles, ReadStudyRecords, checknumber, makeQAlist, test, counter, WriteFile
 
 ReadFiles.greetings()
-cfg.FileName = raw_input('Please give me your file name.\n') + '.txt'
+cfg.FileName = raw_input('Please give me your file name.\n'
+                         'The default one is %s.\n' % ReadFiles.DefaultFileName)
 cfg.RawTerms = ReadFiles.readfile(cfg.FileName)
 cfg.records = ReadStudyRecords.readstudyrecords(cfg.FileName, cfg.RawTerms)
 cfg.records = [int(i) for i in cfg.records]
@@ -23,7 +24,7 @@ cfg.TestFlag, cfg.QuestionIfCorrect = test.test(cfg.dict)
 
 while True:
     if cfg.QuestionIfCorrect == 'QUIT':
-        WriteFile.WriteFile(cfg.records)
+        WriteFile.WriteFile(cfg.FileName, cfg.records)
         print 'Goodbye!'
         break
 
@@ -31,5 +32,5 @@ while True:
         cfg.records = counter.counter(cfg.mode, cfg.records, cfg.TestFlag)
         cfg.TestFlag = False
     cfg.TestFlag, cfg.QuestionIfCorrect = test.test(cfg.dict)
-    
+
 # print cfg.records

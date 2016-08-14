@@ -2,16 +2,18 @@ import os
 import sys
 import cfg
 
+
+DefaultFileName = 'MediTermsComplete'
 def greetings():
-
-
     print 'Hello! Nice to meet you!'
+
 
 def readfile(FileName):
 
 
     if FileName == '':
-        FileName = 'MedicalTerms.txt'
+        FileName = 'MediTermsComplete'
+        cfg.FileName = FileName
 
     try:
         with open(FileName, 'r') as f:

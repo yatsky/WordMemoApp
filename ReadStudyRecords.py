@@ -5,7 +5,7 @@ import os
 def readstudyrecords(FileName, RawTerm):
     cw = os.getcwd()
     srPath = cw + '\\' + FileName + 'StudyRecord'
-    
+    # print srPath
     if not os.path.isfile(srPath):
         with open(FileName + 'StudyRecord', 'w') as f:
             records = ['0'] * len(RawTerm)
