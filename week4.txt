@@ -1,0 +1,26 @@
+Respiratory System 呼吸系统
+Lungs 肺
+Larynx 喉
+trachea 气管
+bronchial tubes 支气管
+diaphragm 横隔膜
+phlegm 痰
+mucus 粘液
+bronchitis 支气管炎
+pneumonia 肺炎
+Female Reproductive System 女性生殖系统
+Vagina 阴道
+uterus (womb) 子宫
+cervix 子宫颈
+fallopian tubes 输卵管
+ovary 卵巢
+menstruation (period) 月经
+fetus 胎儿
+embryo 胚胎
+pregnant 怀孕
+ectopic pregnancy 子宫外孕
+IVF 试管受精
+caesarean section 剖腹产
+natural birth 自然产
+gynecologist 妇科医生
+obstetrician 产科医生
