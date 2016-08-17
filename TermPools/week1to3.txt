@@ -1,0 +1,100 @@
+Heart and Circulatory System 心脏和循环系统
+blood vessels 血管
+artery 动脉
+vein 静脉
+capillary 毛细血管
+ventricle 心室
+atrium 心房
+red blood cells (RBCs) (erythrocytes) 红血球
+white blood cells (WBCs) (leukocytes) 白血球
+platelets (thrombocyte) 血小板
+circulatory system 循环系统
+plasma 血浆
+hemoglobin 血红蛋白, 血色素
+antibody 抗体
+anemia 贫血症
+leukemia 白血病
+Bones, Muscles, and Joints 骨头、肌肉和关节
+Skeleton 骨骼
+Skull 头骨
+Spine 脊柱
+Spinal cord 脊髓
+Ribs 肋骨
+Cartilage 软骨组织
+Collagen 骨胶原
+Ligaments 韧带
+Tendons 腱
+Bone marrow 骨髓
+Joints 关节
+Arthritis 关节炎
+Fracture 骨折
+Osteoporosis 骨质疏松症
+Brain and Nervous System 大脑和神经系统
+vertebrae 椎骨
+neuron 神经元
+central nervous system 中枢神经系统
+Cerebral palsy 大脑性麻痹
+epilepsy 癫痫
+meningitis 脑膜炎
+encephalitis 脑炎
+mental illness 精神病
+concussion 脑震荡
+migraine 偏头痛
+Eyes 眼睛
+eye ball 眼球
+cornea 角膜
+pupil 瞳孔
+iris 虹膜
+sclera 巩膜
+retina 视网膜
+vitreous humour 玻璃质
+lens 晶状体, 水晶体
+optic nerve 视神经
+near-sightedness 近视
+far-sightedness 远视
+cataract 白内障
+conjunctivitis 结膜炎
+glaucoma 青光眼
+Digestive System 消化系统
+Esophagus 食道
+moving your bowels (to poop) 动词大便
+a bowel movement 名词大便
+bowels (large intestine) 大肠
+constipation 便秘
+laxatives 轻泻剂
+diarrhea 腹泻
+nausea 恶心, 作呕
+vomit (throw up) 呕吐
+abdominal pain 腹痛
+tummy pain 肚子痛
+bloating 胀气
+cramps 腹部绞痛
+anus 肛门
+gall bladder 胆囊
+bile 胆汁
+duodenum 十二指肠
+pancreas 胰腺
+liver 肝脏
+appendix 阑尾
+ulcers 溃疡
+heartburn 胃灼热
+bowel regularity 排便有规律
+Irritable Bowel Syndrome 肠易激综合症
+Endocrine System 内分泌系统
+hormone 激素, 荷尔蒙
+gland 腺
+pituitary 垂体
+thyroid 甲状腺
+adrenals 肾上腺
+Urinary System 泌尿系统 
+Kidneys 肾脏
+urine 名词小便
+urinate 动词小便
+ureters 输尿管
+(urinary) bladder 膀胱
+Urethra 尿道
+kidney (renal) failure 肾衰竭
+kidney stones (or nephrolithiasis) 肾结石
+nephritis 肾炎
+urinary tract infections 尿路感染
+dialysis 透析
