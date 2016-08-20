@@ -25,6 +25,9 @@ cfg.TestFlag, cfg.QuestionIfCorrect = test.test(cfg.dict)
 while True:
     if cfg.QuestionIfCorrect == 'QUIT':
         WriteFile.WriteFile(cfg.FileName, cfg.records)
+        for i in range(max(cfg.records) + 1):
+           if i in cfg.records:
+               print cfg.records.count(i), 'words remembered %s times.\n' %i
         print 'Goodbye!'
         break
 
