@@ -1,0 +1,39 @@
+acne 粉刺
+acute 急性的
+allergies 敏感症
+Alzheimer's disease 阿尔茨海默病
+anemia (anaemia) 贫血
+angina pectoris 心绞痛
+appendicitis 阑尾炎
+asthma 哮喘
+brain tumour 脑瘤
+breast cancer 乳房癌
+bronchitis 支气管炎
+chicken pox 水痘
+cholera 霍乱
+bruise 瘀伤
+carpal tunnel syndrome 腕管综合症
+chronic fatigue syndrome 慢性疲劳综合症
+chronic 慢性的
+colon cancer (colorectal cancer) 结肠癌
+colour blindness 色盲
+congenital 先天性
+coronary heart disease 冠心病
+depression 忧郁症
+dermatitis 皮炎
+diabetes type 1 一型糖尿病
+diabetes type 2 二型糖尿病
+diphtheria 白喉
+eczema 湿疹
+headache 头痛
+indigestion 消化不良
+malaria 疟疾
+measles 麻疹
+myocardial infarction 心肌梗塞
+paralysis 麻痹
+pneumonia 肺炎
+poliomyelitis (polio) 小儿麻痹症
+rheumatism 风湿病
+sclerosis 硬化
+sinusitis 窦炎
+tetanus 破伤风
