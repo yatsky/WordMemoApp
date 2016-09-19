@@ -4,7 +4,7 @@ tumour 肿瘤
 dislocation 脱臼
 emphysema 肺气肿
 erectile dysfunction 勃起功能障碍
-fronzen shoulder 粘连性肩关节囊炎
+frozen shoulder 粘连性肩关节囊炎
 gallstones 胆结石
 gastritis 胃炎
 gastroenteritis 胃肠炎
@@ -17,7 +17,7 @@ hearing loss 听力减损
 heart attack 心脏病发作
 heat stroke 中暑
 hepatitis 肝炎
-hepatocirrhosis 肝硬化
+hepatic cirrhosis 肝硬化
 hypertension 高血压
 incubation 潜伏期
 infertility 不育
@@ -30,7 +30,7 @@ menopause 绝经期，更年期
 multiple sclerosis 多发性硬化
 Parkinson's disease 帕金森氏病
 peripheral vascular disease 周围血管病
-permenstrual syndrome 经前期综合症
+premenstrual syndrome 经前期综合症
 prostate enlargement 前列腺肿大
 prostatitis 前列腺炎
 psoriasis 牛皮癣
