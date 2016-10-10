@@ -11,8 +11,10 @@ def makeQAlist(RawTerms, target, records, mode):
         line = line.strip()
         if not re.search('\w', line):
             continue
-        EnglishTerms.append(re.findall('[(\w].+[\w )]', line)[0].strip())
-        ChineseTerms.append(re.findall('[^\w (),].+', line)[0].strip())
+        # EnglishTerms.append(re.findall('[(\w].+[\w )]', line)[0].strip())
+        # ChineseTerms.append(re.findall('[^\w (),].+', line)[0].strip())
+        EnglishTerms.append(re.match(r'([/.\-()\' \w]+)([^\w]+.+)', line).group(1).strip())
+        ChineseTerms.append(re.match(r'([/.\-()\' \w]+)([^\w]+.+)', line).group(2).strip())
 
     mode = mode.upper()
     if mode == 'ENGLISH':
