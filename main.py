@@ -1,5 +1,5 @@
 # this is the main program
-import cfg, ReadFiles, ReadStudyRecords, checknumber, makeQAlist, test, counter, WriteFile
+import cfg, ReadFiles, ReadStudyRecords, checknumber, makeQAlist, test, counter, WriteFile, saveLastInput
 
 ReadFiles.greetings()
 cfg.FileName = raw_input('Please give me your file name.\n'
@@ -17,10 +17,15 @@ cfg.mode = cfg.mode.upper()
 checknumber.is_number()
 checknumber.is_big()
 
+#save customised inputs
+#check does inputs file exist, if so and if user hits Enter, then use settings from inputs file
+#if no exist or user gives other inputs, then change file.
+saveLastInput.saveLastInput(lastFile = cfg.FileName, lastMode = cfg.mode)
 cfg.dict, cfg.QuestionList, cfg.AnswerList, cfg.EnglishTerms, cfg.ChineseTerms = \
     makeQAlist.makeQAlist(cfg.RawTerms, cfg.target, cfg.records, cfg.mode)
 # print cfg.dict
 cfg.TestFlag, cfg.QuestionIfCorrect = test.test(cfg.dict)
+
 
 while True:
     if cfg.QuestionIfCorrect == 'QUIT':
